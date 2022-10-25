@@ -1,1 +1,1 @@
-# sk
+# Wszystkie skrypty
